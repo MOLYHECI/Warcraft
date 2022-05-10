@@ -1,6 +1,10 @@
 # Warcraft
-Peking University cxsjsx 2022 Warcraft Project by MOLYHECI
-
+Peking University cxsjsx 2022 Warcraft Project by MOLYHECI<br />
+If you have any question, just contact me:
+QQ: 1322916662<br />
+WeChat: MOLYHECI19933376080<br />
+E-mail: molyheci@outlook.com<br />
+or create an issue
 ### Warcraft1
 To be honest, Warcraft 1 is easy to code and I needn't to use C++ OOP to manage it,just use C is OK(In fact, using C to manage the all project is OK, too).<br />
 But I have a dream that I can use the origin frame in Warcraft 1 to do the all project, so I do Warcraft using C++ OOP.<br />
@@ -17,4 +21,5 @@ This work is easier but has many details. If the frame before is awful, the work
 For bomb, a Warrior should think what will happen next. The action "think" is hard for me ('cause I do so many search recently and I don't want to do it anymore). So I just copy the state and start a "virtual fight".
 
 ### Epilogue
-The project Warcraft is a good exercise for C++ OOP, and all in all, it seems fairly smooth to me.
+The project Warcraft is a good exercise for C++ OOP, and all in all, it seems fairly smooth to me. Benefiting from the code frame, I needn't refactor my code as others do. Most of my work is debugging and modifying according to the game rule.<br />
+Good Luck!
