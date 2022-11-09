@@ -2,7 +2,7 @@
 Peking University cxsjsx 2022 Warcraft Project by MOLYHECI<br />
 If you have any question, just contact me:<br />
 QQ: 1322916662<br />
-WeChat: MOLYHECI19933376080<br />
+WeChat: Molyqueatius<br />
 E-mail: molyheci@outlook.com<br />
 or create an issue
 ### Warcraft1
